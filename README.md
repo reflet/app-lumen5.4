@@ -1,4 +1,4 @@
-# Lumen (5.4.4)
+# Lumen (5.4.6)
 laravel製軽量フレームワーク Lumen を使ってみる。
 
 ※ Laravel Components 5.4.*
